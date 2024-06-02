@@ -1,1 +1,11 @@
 # Casa-IoT-2030-House
+Tutto il nostro lavoro è nato da una domanda: 
+NOI SIAMO IN GRADO DI PROGRAMMARE? ANZI CHI STA LEGGENDO QUESTO LIBRO SA PROGRAMMARE O AVREBBE VOGLIA DI IMPARARE LE BASI DELLA PROGRAMMAZIONE?
+
+Quindi abbiamo, come prima cosa, cercato di darci una risposta. Ecco cosa è emerso: Tutt’oggi chiunque utilizza un dispositivo tecnologico, dai bambini agli anziani. Però la maggior parte di noi lascia la programmazione agli ingegneri qualificati, perché pensano: “È TROPPO COMPLICATO PER ME, GIA' è TANTO CHE RIESCO A UTILIZZARE IL TELEFONO”. Ma è proprio qui che sbagliate, anzi, a dire la verità, sbagliamo. Proprio così, anche noi prima di iniziare questo progetto eravamo come le persone che pensano che la programmazione sia complicata e difficile, ma in realtà può essere anche divertente. Nessuno mette in dubbio che la programmazione sia un gioco da ragazzi; lo mettiamo in dubbio anche noi, giovani ragazzi con più o meno una mente fresca, ma siamo pronti a metterci in gioco qualunque sia la sfida. 
+
+Nel corso degli anni, Arduino è stato utilizzato come “cervello” per moltissimi progetti, scolastici e non. Infatti, Arduino non viene usato solo per scopi didattici, ma trova utilizzo in molteplici e varie applicazioni. Ad esempio, con un semplice Arduino si possono realizzare cose molto semplici come accendere un diodo, ma anche cose molto complesse come la creazione di una “stampante” che riesca a disegnare su un foglio oppure dispositivi per la sicurezza. Arduino è aperto e semplice; basta partire dal presupposto che imparare a utilizzare le tecnologie digitali è semplice e accessibile. Così, l'elettronica e il codice diventano strumenti creativi che chiunque può utilizzare - come pennelli e colori per un pittore.
+
+Quasi dimenticavamo di presentarci: siamo Davide, Rmma e Andrea, tre studenti di quinta superiore dell’Istituto Tecnico ITIS Leonardo da Vinci. Il nostro obbiettivo è quello di far cambiare idea a chi pensa che la tecnologia sia riservata solo a chi l'ha studiata e possa insegnare qualcosa a qualcun altro; quindi, mambo alle ciance, mettetevi comodi o non comodi come preferite e venite insieme a noi in questo viaggio tra Arduino e IOT.
+
+Venite insieme a noi nella creazione di una casa domotica.
